@@ -2307,6 +2307,7 @@ textarea {
 .image.fit img {
   display: block;
   height: 100%;
+  width: auto;
 }
 
 .image.feature {
